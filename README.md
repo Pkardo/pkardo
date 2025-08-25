@@ -7,9 +7,6 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pkardo&theme=radical&include_all_commits=true&count_private=true&show_icons=true" width="400"/>
-      </td>
-      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkardo&theme=radical&layout=compact" width="400"/>
       </td>
     </tr>
