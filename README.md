@@ -1,12 +1,19 @@
-## Bem vindo! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=DA00F&width=435&lines=E+a%C3%AD,+Meu+nome+%C3%A9+Paulo+%F0%9F%91%8B%F0%9F%8F%BC+;Sou+um+Programador+em+Desenvolvimento+;%C3%89+um+prazer+ter+voc%C3%AA+no+meu+perfil!" alt="Typing SVG">
+  </a>
 
-Me desenvolvendo como Programador 💻
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pkardo&theme=radical&include_all_commits=true&count_private=true&show_icons=true" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkardo&theme=radical&layout=compact" width="400"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
